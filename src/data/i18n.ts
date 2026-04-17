@@ -26,7 +26,7 @@ export const ui: Record<Lang, UICopy> = {
     tierUnifiedSubtitle: "프리미엄 통합 케어",
     tierBasicTagline: "일상 회복과 유지에 최적화된 7가지 시술 관리 가이드",
     tierPremiumTagline:
-      "리프팅·타이트닝·바이오자극 볼륨을 받으신 분을 위한 정밀 회복 가이드",
+      "리프팅·타이트닝·바이오자극 볼륨을 받으신 분을 위한\n정밀 회복 가이드",
     tierUnifiedTagline: "받으신 모든 시술의 회복 가이드를 한 곳에서",
     tierBasicDesc: "일상 시술 · 유지 관리 · 주사와 기본 레이저",
     tierPremiumDesc: "리프팅·타이트닝·바이오자극 볼륨 · 고강도 시술",
