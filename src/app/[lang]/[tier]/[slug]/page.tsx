@@ -72,7 +72,6 @@ export default async function AftercareDetailPage({
           { label: meta.label, href: `/${l}/${tier}` },
           { label: d.procedureName },
         ]}
-        currentLang={l}
       />
 
       {/* 0. Critical Notice */}

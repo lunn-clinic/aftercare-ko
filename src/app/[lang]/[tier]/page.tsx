@@ -65,7 +65,6 @@ export default async function TierHubPage({
           { label: copy.aftercareGuide, href: `/${l}` },
           { label: meta.label },
         ]}
-        currentLang={l}
       />
 
       {/* 인트로 */}

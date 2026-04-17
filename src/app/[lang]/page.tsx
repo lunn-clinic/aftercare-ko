@@ -50,7 +50,6 @@ export default async function TierSelectPage({
         title={copy.aftercareGuide}
         subtitle={copy.forOurPatients}
         breadcrumb={[{ label: copy.aftercareGuide }]}
-        currentLang={l}
       />
 
       {/* 인트로 */}
