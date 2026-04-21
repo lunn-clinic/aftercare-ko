@@ -186,18 +186,6 @@ export default async function TierHubPage({
           ))}
         </div>
       </section>
-
-      {/* 하단 CTA */}
-      <section className="py-20 bg-primary-navy text-white text-center">
-        <div className="max-w-[720px] mx-auto px-6">
-          <Link
-            href={`/${l}`}
-            className="inline-block bg-accent-beige hover:bg-[#BFB8A9] text-primary-navy px-10 py-4 rounded-full text-sm font-semibold tracking-wide transition-all"
-          >
-            {copy.otherLine}
-          </Link>
-        </div>
-      </section>
     </>
   );
 }
