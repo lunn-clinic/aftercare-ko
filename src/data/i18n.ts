@@ -22,10 +22,10 @@ export const ui: Record<Lang, UICopy> = {
     aftercareGuide: "시술 후 관리 가이드",
     tierBasic: "Basic Line",
     tierPremium: "Premium Line",
-    tierUnified: "Premium Line",
+    tierUnified: "Aftercare Guide",
     tierBasicSubtitle: "베이직 케어 라인",
     tierPremiumSubtitle: "프리미엄 리프팅·볼륨 라인",
-    tierUnifiedSubtitle: "프리미엄 통합 케어",
+    tierUnifiedSubtitle: "시술 후 관리 통합 가이드",
     tierBasicTagline: "일상 회복과 유지에 최적화된 7가지 시술 관리 가이드",
     tierPremiumTagline:
       "리프팅·타이트닝·콜라겐 볼륨을 받으신 분을 위한\n정밀 회복 가이드",
